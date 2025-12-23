@@ -28,7 +28,5 @@ public class Main {
 		r3 = null;
 		System.gc();
 		input.close();
-		
 	}
-
 }
